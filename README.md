@@ -27,3 +27,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=srsajal&show_icons=true&locale=en" alt="srsajal" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=srsajal&" alt="srsajal" /></p>
+
+![snake gif](https://github.com/srsajal/srsajal/blob/output/github-contribution-grid-snake.gif)
